@@ -7,28 +7,33 @@ No jogo, você assume o papel de um monitor de Introdução à Programação exa
 ## **Índice**
 
 [Integrantes do grupo e suas funções](#integrantes-do-grupo-e-suas-funções)
+
 [Instruções para rodar o projeto](#instruções-para-rodar-o-projeto)
+
 [Biblioteca usada](#biblioteca-usada)
+
 [Organização do código](#organização-do-código)
+
 [Galeria de fotos](#galeria-de-fotos)
 
 
 ## **Integrantes do grupo e suas funções**
 
-**Samara Luiza** [github](https://github.com/slso2) - Função 
+[**Samara Luiza**](https://github.com/slso2) - Função 
 
-**Jean Pietro** [github](https://github.com/jean-pietro-lacerda) - Função 
+[**Jean Pietro**](https://github.com/jean-pietro-lacerda) - Função 
 
-**Maria Gabriela** [github](https://github.com/Maria-Firmino) - Função 
+[**Maria Gabriela**](https://github.com/Maria-Firmino) - Função 
 
-**Pedro Amaral** [github](https://github.com/peba-97) - Função 
+[**Pedro Amaral**](https://github.com/peba-97) - Função 
 
-**Mateus Costa** [github](https://github.com/Costa2208) - Função 
+[**Mateus Costa**](https://github.com/Costa2208) - Função 
 
 
 ## **Instruções para rodar o projeto**
 
 Antes de começar, você precisa ter o **Python** instalado no seu computador. Após isso, siga os passos abaixo:
+
 1. Instale a branch main
 2. Extraia o arquivo.zip
 3. Abra a pasta projeto_ip em seu editor
